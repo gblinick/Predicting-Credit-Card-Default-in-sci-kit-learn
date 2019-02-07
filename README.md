@@ -1,6 +1,8 @@
 "# Springboard-Capstone-1" 
 
-A project about predicting credit card default in sci-kit learn  based on demographic and financial factors using a variety of machine learning models and comparing the models. The original dataset for this project can be found here: https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset/home
+A project about predicting credit card default in sci-kit learn  based on demographic and financial factors using a variety of machine learning models and comparing the models. 6 models were trained on the data and compared with different metrics. Random Forest was found to be the best model because it had the best precision-recall curve.
+
+The original dataset for this project can be found here: https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset/home
 The paper referenced in this project can be found here: https://bradzzz.gitbooks.io/ga-dsi-seattle/content/dsi/dsi_05_classification_databases/2.1-lesson/assets/datasets/DefaultCreditCardClients_yeh_2009.pdf
 
 The order for this project is as follows:
